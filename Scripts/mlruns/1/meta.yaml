@@ -1,0 +1,4 @@
+artifact_location: file:///A:/Documentos%20M2/Portfolio/Clustering_Iris/Scripts/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Clustering experiment
